@@ -1,0 +1,5 @@
+function load(){
+}
+
+function resize() {
+}

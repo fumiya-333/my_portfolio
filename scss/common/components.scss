@@ -1,0 +1,53 @@
+.btn-warning {
+  background-color: #F5A623;
+  color: white;
+  font-weight: bold;
+  border-radius: 25px;
+}
+
+.btn-navy-blue {
+  background-color: #1B224C;
+  color: white;
+  font-weight: bold;
+  border-radius: 25px;
+}
+
+.btn-contact {
+  width: 210px;
+  height: 50px;
+  border-radius: 31px;
+}
+
+.input-error {
+  border: 1px solid red;
+  background-color: #ffd9e1;
+}
+
+.h2-title {
+  text-align: center;
+  font-size: 36px;
+  @include mq(sp) {
+    font-size: 28px;
+  }
+}
+
+.h3-title {
+  font-size: 28px;
+  @include mq(sp) {
+    font-size: 24px;
+  }
+}
+
+.table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  width: 100%;
+  tr {
+    border-bottom: solid 1px #eee;
+    th, td {
+      text-align: center;
+      width: 25%;
+      padding: 15px 0;
+    }
+  }
+}

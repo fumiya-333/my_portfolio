@@ -1,0 +1,19 @@
+@import "../common/mixin.scss";
+
+footer {
+  .footer-inner {
+    display: flex;
+    max-width: 927.5px;
+    margin: 70.5px auto 0 auto;
+    .copy-right {
+      height: 46px;
+      margin: 0 auto;
+      font-size: 12px;
+      font-weight: bold;
+      @include flexbox(nowrap, center, center);
+      @include mq(sp-and-tab) {
+        margin: 0 auto;
+      }
+    }
+  }
+}

@@ -1,0 +1,31 @@
+@import "../common/mixin.scss";
+
+.skill {
+  padding-top: 75px;
+  .skill-inner {
+    .skill-title {
+      text-align: center;
+      font-size: 36px;
+      @include mq(sp) {
+        font-size: 24px;
+        line-height: 1.7;
+      }
+    }
+    .skill-content {
+      padding-top: 36px;
+      ul {
+        @include flexbox(wrap);
+        li {
+          text-align: center;
+          width: 200px;
+          margin-bottom: 24px;
+          .skill-name {
+            margin: 12px 0;
+            font-size: 24px;
+            font-weight: bold;
+          }
+        }
+      }
+    }
+  }
+}

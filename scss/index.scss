@@ -1,0 +1,16 @@
+@import "common/style.scss";
+@import "common/mixin.scss";
+@import "common/components.scss";
+@import "parts/header.scss";
+@import "parts/hero.scss";
+@import "parts/work.scss";
+@import "parts/service.scss";
+@import "parts/about.scss";
+@import "parts/skill.scss";
+@import "parts/contact.scss";
+@import "parts/footer.scss";
+
+main {
+  max-width: 900px;
+  margin: 80px auto 0 auto;
+}

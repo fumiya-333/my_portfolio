@@ -1,0 +1,28 @@
+@import "../common/mixin.scss";
+
+$toggle-btn-top: 50%;
+
+.price {
+  .price-inner {
+    max-width: 900px;
+    padding: 24px 16px 0 16px;
+    margin: 0 auto;
+    .price-table {
+      margin-top: 36px;
+    }
+    .contact-box {
+      width: 320px;
+      padding-top: 36px;
+      margin: 0 auto;
+      p {
+        line-height: 1.5;
+      }
+      .btn-contact-box {
+        text-align: center;
+        .btn-contact {
+          margin-top: 20px;
+        }
+      }
+    }
+  }
+}
