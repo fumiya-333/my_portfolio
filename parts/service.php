@@ -8,17 +8,17 @@
       <li>
         <i class="fa fa-desktop fa-9x"></i>
         <h3 class="h3-title">ホームページ制作</h3>
-        <div class="slider-content">お客様のサービスの魅力を最大限にお伝えするWebサイト制作を お手伝いいたします。 最大限の効果を発揮できるサイト作りを一緒に実現しましょう。ディレクションからデザイン、構築、保守・運用までサポートいたします。</div>
+        <div class="slider-content">Webサイトの制作・メンテナンス・リニューアルまでどれでもお手伝いいたします。また、PCのレイアウトだけでなくスマートフォンやタブレットなど様々のデバイスでもレイアウトを崩れさせず表示させる「レスポンシブWebデザイン」も対応いたします。</div>
       </li>
       <li>
         <i class="fa fa-laptop-code fa-9x"></i>
         <h3 class="h3-title">コーディング・WP構築</h3>
-        <div class="slider-content">１ページ単位からのコーディングや、WordPressの構築のみもお受けいたします。 W3Cに準拠したコーディング、保守運用がしやすいWordPressでのWebサイトの管理をご希望の方はお問い合わせください。</div>
+        <div class="slider-content">LPやコーポレートサイト、WordPressの構築もお受けいたします。Webに関するコーディング、保守運用がしやすいWordPressでのWebサイトの管理をご希望の方はお問い合わせください。</div>
       </li>
       <li>
         <i class="fa fa-toolbox fa-9x"></i>
         <h3 class="h3-title">システム・ツール作成</h3>
-        <div class="slider-content">こんなツールがあったらいいな、 こんなシステムがあったらいいな というご要望がありましたら、 なんなりとお伝えください。 お客様のご要望に沿った システム・ツール作成を お受けいたします。</div>
+        <div class="slider-content">Webサイトだけでなく、作業効率化のためシステム開発がご希望のご要望がございましたら、なんなりとご連絡ください。お客様のご要望に沿ったシステム・ツール作成をお受けいたします。</div>
       </li>
     </ul>
     <div class="btn-price-area">
